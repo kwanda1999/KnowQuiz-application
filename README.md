@@ -29,4 +29,4 @@ Steps in the working of the application:
 	4. Application reviews the answers using logic
 	5. Application displays results in results tab
 
-**Code of prject found in master branch
+**Code of project found in master branch
