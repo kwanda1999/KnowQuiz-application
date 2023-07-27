@@ -28,3 +28,5 @@ Steps in the working of the application:
 	3. User completes the quiz
 	4. Application reviews the answers using logic
 	5. Application displays results in results tab
+
+**Code of prject found in master branch
