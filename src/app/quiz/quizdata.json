@@ -1,0 +1,170 @@
+[
+    {
+        "questionId": 1,
+        "question": "Which of these are part of the 5 step process of risk management?",
+        "options": [
+            {"answer":  "Analyze risk",
+            "isCorrect": false},
+            {"answer": "Identify risk",
+            "isCorrect": false},
+            {"answer":"Understand vision",
+            "isCorrect": false},
+            {"answer":"All of the above",
+            "isCorrect": true}
+        ]},
+
+
+        {
+            "questionId": 2,
+            "question": "Why should flexibility be present in all areas of an agile business?",
+            "options": [
+                {"answer":  "To allow managers to go on leave whenever they want",
+                "isCorrect": false},
+                {"answer":  "Ensures robust end results",
+                "isCorrect": true},
+                {"answer":"Makes it easier to drop a client if needed",
+                "isCorrect": false},
+                {"answer":"None of the above",
+                "isCorrect": false}
+            ]},
+
+            {
+                "questionId": 3,
+                "question": "Which of these are characteristics of a waterfall (traditional) business method?",
+                "options": [
+                    {"answer": "Launch an end product faster",
+                    "isCorrect": false},
+                    {"answer": "Iterative approach",
+                    "isCorrect": false},
+                    {"answer": "Linear as well as sequential",
+                    "isCorrect": true},
+                    {"answer": "Demo session after cycle for feedback",
+                    "isCorrect": false}
+                ]},
+
+                
+            {
+                "questionId": 4,
+                "question": "How many steps are in the lean methodology?",
+                "options": [
+                    {"answer": "Five",
+                    "isCorrect": true},
+                    {"answer": "Ten",
+                    "isCorrect": false},
+                    {"answer": "Seven",
+                    "isCorrect": false},
+                    {"answer": "Nine",
+                    "isCorrect": false}
+                ]},
+
+                {
+                    "questionId": 5,
+                    "question": "What is an 'epic' used for?",
+                    "options": [
+                        {"answer": "Present product to client after completion", 
+                        "isCorrect": false},
+                        {"answer": "Used to represent product requirements",
+                        "isCorrect": true},
+                        {"answer": "Basic implemention of the end to end workflow",
+                        "isCorrect": false},
+                        {"answer": "Set the actions that take place to add value for users",
+                        "isCorrect": false}
+                    ]},
+
+                    {
+                        "questionId": 6,
+                        "question": "What are the attributes of a scrum master",
+                        "options": [
+                            {"answer": "Humble",
+                            "isCorrect": false},
+                            {"answer": "Commited",
+                            "isCorrect": false},
+                            {"answer": "Influential",
+                            "isCorrect": false},
+                            {"answer":"All of the above",
+                            "isCorrect": true}
+                        ]},
+
+                        
+                    {
+                        "questionId": 7,
+                        "question": "The advantage of working in timeboxes is ...:",
+                        "options": [
+                            {"answer": "Limiting the time available for working",
+                            "isCorrect": true},
+                            {"answer": "Can easily take breaks whenever",
+                            "isCorrect": false}
+                        ]},
+                            
+                        {
+                            "questionId": 8,
+                            "question": "Who should attend the sprin planning meeting?",
+                            "options": [
+                                {"answer": "The developing team",
+                                "isCorrect": false},
+                                {"answer": "The scrum master",
+                                "isCorrect": false},
+                                {"answer": "The product owner",
+                                "isCorrect": false},
+                                {"answer":"All of the above",
+                                "isCorrect": true}
+                            ]},
+
+
+                            {
+                                "questionId": 8,
+                                "question": "Who should attend the sprin planning meeting?",
+                                "options": [
+                                    {"answer": "The developing team",
+                                    "isCorrect": false},
+                                    {"answer": "The scrum master",
+                                    "isCorrect": false},
+                                    {"answer": "The product owner",
+                                    "isCorrect": false},
+                                    {"answer":"All of the above",
+                                    "isCorrect": true}
+                                ]},
+
+                                {
+                                    "questionId": 9,
+                                    "question": "Which is the most common transformation archtype which guarantees early success?",
+                                    "options": [
+                                        {"answer": "Emergent",
+                                        "isCorrect": false},
+                                        {"answer": "Agile",
+                                        "isCorrect": false},
+                                        {"answer": "All in",
+                                        "isCorrect": false},
+                                        {"answer":"Step Wise",
+                                        "isCorrect": true}
+                                    ]},
+
+                                    {
+                                        "questionId": 9,
+                                        "question": "Which is the most common transformation archtype which guarantees early success?",
+                                        "options": [
+                                            {"answer": "Emergent",
+                                            "isCorrect": false},
+                                            {"answer": "Agile",
+                                            "isCorrect": false},
+                                            {"answer": "All in",
+                                            "isCorrect": false},
+                                            {"answer":"Step Wise",
+                                            "isCorrect": true}
+                                        ]},
+
+                                        {
+                                            "questionId": 10,
+                                            "question": "In which city was the Agile Manifesto drafted",
+                                            "options": [
+                                                {"answer": "New York City",
+                                                "isCorrect": false},
+                                                {"answer": "Los Angeles",
+                                                "isCorrect": false},
+                                                {"answer": "Miami",
+                                                "isCorrect": false},
+                                                {"answer":"Park City, Utah",
+                                                "isCorrect": true}
+                                            ]}
+       
+]
